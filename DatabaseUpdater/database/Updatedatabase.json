@@ -1,0 +1,61 @@
+[ {
+  "code" : "lQfcno",
+  "file" : "s3://some-special-bucket/production/publisher-data/LQFCNO-3191e7b0-8c6f-4ba8-b9e8-83dc88a5488c",
+  "name" : "lQfcnoName",
+  "active" : "true",
+  "categories" : [ "CATABC", "CATDEF", "CATXYZ" ]
+}, {
+  "code" : "rIohUZ",
+  "file" : "s3://some-special-bucket/production/publisher-data/RIOHUZ-1ba924de-16a2-46a1-8af2-a2f8ad6535a8",
+  "name" : "rIohUZName",
+  "active" : "true",
+  "categories" : [ "CATABC", "CATDEF", "CATXYZ" ]
+}, {
+  "code" : "pmzSqP",
+  "file" : "s3://some-special-bucket/production/publisher-data/PMZSQP-cee71c5c-3c6d-4802-845c-41c2b7d3665b",
+  "name" : "pmzSqPName",
+  "active" : "true",
+  "categories" : [ "CATABC", "CATDEF", "CATXYZ" ]
+}, {
+  "code" : "ThyJVw",
+  "file" : "s3://some-special-bucket/production/publisher-data/THYJVW-9d434855-5957-4f71-b41f-d671711de53a",
+  "name" : "ThyJVwName",
+  "active" : "true",
+  "categories" : [ "CATABC", "CATDEF", "CATXYZ" ]
+}, {
+  "code" : "ttAZne",
+  "file" : "s3://some-special-bucket/production/publisher-data/TTAZNE-4abb4cf7-afbb-43a3-9395-43a15fb15647",
+  "name" : "ttAZneName",
+  "active" : "false",
+  "categories" : [ "CATABC", "CATDEF", "CATXYZ" ]
+}, {
+  "code" : "AicQuN",
+  "file" : "s3://some-special-bucket/production/publisher-data/AICQUN-c130028c-8ba5-4a74-b0bc-fab353609cf3",
+  "name" : "AicQuNName",
+  "active" : "false",
+  "categories" : [ "CATABC", "CATDEF", "CATXYZ" ]
+}, {
+  "code" : "OvoOhY",
+  "file" : "s3://some-special-bucket/production/publisher-data/OVOOHY-06efaf21-1af0-4b10-b96f-8558a16c831b",
+  "name" : "OvoOhYName",
+  "active" : "true",
+  "categories" : [ "CATABC", "CATDEF", "CATXYZ" ]
+}, {
+  "code" : "gYodHw",
+  "file" : "s3://some-special-bucket/production/publisher-data/GYODHW-992a3ff4-e392-482e-a761-57cff507131c",
+  "name" : "gYodHwName",
+  "active" : "true",
+  "categories" : [ "CATABC", "CATDEF", "CATXYZ" ]
+}, {
+  "code" : "SIVgFC",
+  "file" : "s3://some-special-bucket/production/publisher-data/SIVGFC-96e3282a-30fc-42e6-89e1-50a7f043378d",
+  "name" : "SIVgFCName",
+  "active" : "false",
+  "categories" : [ "CATABC", "CATDEF", "CATXYZ" ]
+}, {
+  "code" : "EZYFEX",
+  "file" : "s3://some-special-bucket/production/publisher-data/EZYFEX-fc993f58-da1d-4ace-8898-106c1dc26191",
+  "name" : "EZYFEXName",
+  "active" : "true",
+  "categories" : [ "CATABC", "CATDEF", "CATXYZ" ]
+} ]
